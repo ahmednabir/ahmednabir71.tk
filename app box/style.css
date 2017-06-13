@@ -1,0 +1,293 @@
+*{margin:0;padding:0}
+body{
+	background:#ebefee;
+	font-family:arial;
+}
+.header_wrapper{
+	background-color:#3897d7;
+	height:50px;
+}
+.menu{
+	
+}
+.navbar-default {
+	background-color:#3897d7;
+	border-color:none;
+	border:none;
+}
+.navbar-default .navbar-brand {
+	color: #e0eace;
+}
+
+.mynav{}
+.mynav ul{}
+.mynav ul li{
+	width:120px;
+	
+}
+.mynav ul li a{
+	font-size:16px;
+	text-transform:uppercase;
+	color:#d4f3f8 !important;
+}
+.mynav ul li a:hover{}
+
+
+
+
+/*
+=====================
+	slider_area
+=====================
+*/
+.slider_wrapper{
+	 background-image:url("img/blue_abtsract-1920x1080.jpg");
+	 min-height:320px;
+	 
+}
+.slider{}
+.slider h1{
+	color:#d1e9e9;
+}
+.slider span{
+	color:#6cb1d7;
+	font-size:18px;
+}
+.button12{
+	margin-top:50px;
+	
+}
+.slider .button12 Button {
+	background: transparent;
+	width: 250px;
+	color:#ffffff;
+	margin:0;
+}
+.slider Button{
+	background: transparent;
+	width:140px;
+	color:#ffffff;
+	margin-top:10px;
+}
+
+/*
+========================
+	Feature_Area
+========================
+*/
+.feature_wrapper{
+	margin-bottom:50px;
+}
+.Feature_wrap{
+	margin-top:50px;
+	margin-bottom:80px;
+}
+.feature_content{
+	margin-bottom:50px;
+}
+.feature_content h1{
+	font-size:60px;
+}
+.feature_content span{
+	color:#c2b8b8;
+	font-size:20px;
+}
+.feature_single{}
+.feature_single i{
+	font-size:45px;
+}
+.feature_single h2{
+	color:#6da0bd;
+}
+.feature_single p{
+	padding:0px 10px;
+}
+
+/*
+=====================
+	Service_Area
+=====================
+*/
+.service_wrapper{
+	background:url(img/images.jpg)no-repeat;
+	background-size:cover;
+	overflow:hidden;
+	padding-top:50px;
+}
+.service_wrap{}
+.service_main{}
+.service_main h1{
+	color:#ffffff;
+	margin-bottom:30px;
+	font-size:40px;
+}
+.button_001{
+	float:left;
+	margin-left:320px;
+}
+.button_001 button{
+	background:transparent;
+	color:#ffffff;
+	position:absolute;
+	width:220px;
+	display:inline-block;
+}
+.button_001 i{
+	position:relative;
+	color:#ffffff;
+	left:67px;
+	right:0px;
+	top:0px;
+	bottom:0px;
+	line-height:33px;
+	text-transform:uppercase;
+}
+	
+.button_002{
+	float:right;
+	margin-right:540px;
+}
+.button_002 button{
+	background:transparent;
+	color:#ffffff;
+	position:absolute;
+	width:220px;
+	display:inline-block;
+}
+.button_002 i{
+	position:relative;
+	color:#ffffff;
+	left:67px;
+	right:0px;
+	top:0px;
+	bottom:0px;
+	line-height:33px;
+	text-transform:uppercase;
+	
+}
+.service_left{
+	margin-top:30px;
+}
+.service_left{}
+.service_left001{
+	margin-top:50px;
+}
+.service_Left_0001{
+	float:left;
+	
+}
+.service_Left_0001 h3{
+	color:#ffffff;
+	text-align:right;
+	text-transform:uppercase;
+}
+.service_Left_0001 p{
+	text-align:right;
+	color:#9a9494;
+}
+.service_right_0001{
+	float:right;
+}
+.service_right_0001 i{
+	background:#39a1d8;
+	width:70px;
+	height:70px;
+	line-height:70px;
+	font-size:32px;
+	position:relative;
+	top:-90px;
+	bottom:0px;
+	left:95px;
+	right:0px;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	
+}
+.service_middle{
+	margin-top:70px;
+	
+}
+.service_middle img{
+	width:440px;
+	height:480px;
+}
+.service_right{}
+.service_leftmain{}
+.service_left_022{
+	float:right;
+	margin-left:50px;
+}
+.service_left_022 h3{
+	color:#ffffff;
+	text-align:left;
+	text-transform:uppercase;
+}
+.service_left_022 p{
+	text-align:left;
+	color:#bbbbbb;
+}
+.service_right_033 i {
+	background: #39a1d8;
+	width: 70px;
+	height: 70px;
+	line-height: 70px;
+	font-size: 32px;
+	position: relative;
+	top: 93px;
+	bottom: 0px;
+	left: -178px;
+	right: 0px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+
+
+/*
+=====================
+	Footer_Area
+=====================
+*/
+.footer_wrapper{}
+.footer_main{
+	margin-top:50px;
+	margin-bottom:50px;
+	overflow:hidden;
+}
+.footer_left{}
+.footer_left h2{
+	color:#36a9fc;
+	font-size:60px;
+}
+.footer_left p{
+	color:#b0c0da;
+	padding-right:150px;
+	font-size:24px;
+}
+.footer_left button{}
+.footer_btn{
+	background:#2d99e2;
+	border:none;
+	width:180px;
+	height:40px;
+	margin-top:20px;
+	font-size:18px;
+}
+.footer_right {}
+.footer_right img{
+	height:250px;
+}
+
+/*      footer    */
+.footer{
+	height:50px;
+	background-color:#3897d7;
+}
+.fooooter{
+	font-size:18px;
+	color:#ffffff;
+	text-align:center;
+	line-height:50px;
+}

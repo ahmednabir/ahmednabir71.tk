@@ -1,0 +1,25 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SFBurlingtonScript-Bold
+FamilyName:SF Burlington Script
+StyleName:Bold
+FullName:SF Burlington Script Bold
+MenuName:SF Burlington Script
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Nabir\Desktop\Project_005\Font\pfagorasanspro-light.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:52615
+FileModTime:1494002085
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SF Burlington Script Bold
+NameArray:0,Win,1,SF Burlington Script
+%EndFont
+
